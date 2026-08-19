@@ -80,6 +80,6 @@ elif profile == "saltnpepper":
     <h3>Subscribers:</h3>
     <p>3</p>
     <h3>Rec Room Era:</h3>
-    <p>2024-2025</p>
+    <p>2024-2026</p>
     </div>
 """)
