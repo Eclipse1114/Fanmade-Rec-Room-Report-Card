@@ -24,13 +24,10 @@ if submit:
     <div class="card">
         <h1>Rec Room Final Report Card</h1>
         <h2>@{name}</h2>
-
         <h3>Player Since:</h3>
         <p>{joined}</p>
-
         <h3>Final Activity:</h3>
         <p>{final_activity}</p>
-
         <h3>Subscribers:</h3>
         <p>{subs}</p>
     </div>
