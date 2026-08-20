@@ -7,7 +7,7 @@ final_activity = st.text_input("When did you stop playing?")
 submit = st.button("Generate Card")
 
 if submit:
-    st.html(f"""
+    st.markdown(f"""
     <style>
         .stApp {{
             background-color: black;
