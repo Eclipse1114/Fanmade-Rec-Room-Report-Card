@@ -11,8 +11,10 @@ if profile == "Eclipse":
         background-color: white;
         color: black;
         padding: 30px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0,0.1);
+        border: 1px solid #eaeaea;
         border-radius: 20px;
-        text-align: center; /* Fixed typo */
+        text-align: center;
         font-family: Arial, sans-serif;
     }
 
@@ -21,7 +23,7 @@ if profile == "Eclipse":
     }
 
     .card h3 {
-        margin-bottom: 5px; /* Fixed typo */
+        margin-bottom: 5px;
     }
 
     .card p {
@@ -52,8 +54,10 @@ elif profile == "saltnpepper":
         background-color: white;
         color: black;
         padding: 30px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0,0.1);
+        border: 1px solid #eaeaea;
         border-radius: 20px;
-        text-align: center; /* Fixed typo */
+        text-align: center;
         font-family: Arial, sans-serif;
     }
 
@@ -62,7 +66,7 @@ elif profile == "saltnpepper":
     }
 
     .card h3 {
-        margin-bottom: 5px; /* Fixed typo */
+        margin-bottom: 5px;
     }
 
     .card p {
@@ -80,6 +84,6 @@ elif profile == "saltnpepper":
     <h3>Subscribers:</h3>
     <p>3</p>
     <h3>Rec Room Era:</h3>
-    <p>2024-2026</p>
+    <p>2024-2025</p>
     </div>
 """)
