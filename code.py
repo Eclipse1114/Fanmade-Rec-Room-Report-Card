@@ -4,12 +4,11 @@ name = st.text_input("What was your Username?")
 subs = st.number_input("How many Subscribers did you have?")
 joined = st.text_input("When did you join?")
 final_activity = st.text_input("When did you stop playing?")
+submit = st.button("Generate Card")
 
+if submit:
 st.html(f"""
 <style>
-    .stApp {
-        background-color: black;
-    }
     .card {
         color: white;
     }
