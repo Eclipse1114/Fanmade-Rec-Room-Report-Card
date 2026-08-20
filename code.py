@@ -9,12 +9,10 @@ submit = st.button("Generate Card")
 if submit:
     st.html(f"""
     <style>
-        .stApp {
-            background-color: black;
-            text-align: center;
         }
         .card {
             color: white;
+            text-align: center;
         }
         .card h1 {
             color: orange;
