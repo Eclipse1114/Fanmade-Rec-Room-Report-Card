@@ -11,10 +11,10 @@ if submit:
     <style>
         .stApp {{
             background-color: black;
-            text-align: center;
         }}
         .card {{
             color: white;
+            text-align: center;
         }}
         .card h1 {{
             color: orange;
